@@ -184,8 +184,9 @@ a{
 .landing__container {
     padding: 1em;
 }
-
-
+.contact__content a{
+    color: var(--text-color);
+}
 
 section:nth-of-type(even) .landing__container {
     margin-right: 0;
